@@ -36,3 +36,5 @@ def test_add():
      assert mfun.add(5, 8) == 13
 
 # @pytest.mark.xfail(reason="We know we can't divide anything by zero")     
+
+## chatGPT can be used to create test cases 
