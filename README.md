@@ -1,8 +1,3 @@
-# DATA_and_AI
-
-![image](https://github.com/user-attachments/assets/3e7f7d8f-a051-4463-a7c6-fb81fdbeed80)
-
-
 # Pytest 
 - Testing Framework for Python
 - Auto discovery of test
